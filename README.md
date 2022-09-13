@@ -3,11 +3,11 @@ Sistema para gerenciamento de Academia.
 
 Tecnologias Utilizadas:
 
-#Backend:
+## Backend:
 TypeScript
 Node.js 
 
-#Frontend:
+## Frontend:
 JavaScript
 HTML
 CSS
